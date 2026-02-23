@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Hadi
 
-<!--
-**Hadimetlej/Hadimetlej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Engineer focused on real-world vulnerabilities and business logic flaws.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 What I Do
+
+- Identify and exploit business logic vulnerabilities
+- Perform advanced IDOR testing
+- Analyze file upload security issues
+- Build realistic attack scenarios
+
+---
+
+## 🧠 Featured Work
+
+- 💰 Financial Logic Vulnerabilities
+- ⚙️ Business Logic Attacks
+- 🔓 IDOR Exploitation Cases
+- 📁 File Upload Security Issues
+
+---
+
+## 📫 Contact
+
+- Email: hadi531metlej@gmail.com
