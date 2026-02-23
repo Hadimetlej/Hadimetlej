@@ -6,10 +6,11 @@ Cybersecurity Engineer focused on real-world vulnerabilities and business logic 
 
 ## 🔥 What I Do
 
-- Identify and exploit business logic vulnerabilities
-- Perform advanced IDOR testing
-- Analyze file upload security issues
-- Build realistic attack scenarios
+- Perform real-world web application penetration testing  
+- Identify and exploit business logic vulnerabilities  
+- Discover and abuse IDOR & access control issues  
+- Test file upload, authentication & API security  
+- Build realistic attack scenarios simulating real attackers  
 
 ---
 
